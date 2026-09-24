@@ -12,6 +12,6 @@ The files follow this order:
 2. **`DataCleaning.py`** — Cleaning and preparing the simulation data.
 3. **`DataClustering.py`** — Clustering analysis of the prepared data.
 4. **`EDA.py`** — Exploratory data analysis and visualizations.
-5. **`MachineLearningFramework.py`** — Training and evaluating machine learning models to assess overheating and envelope retrofit strategies.
+5. **`MLFramework.py`** — Training and evaluating machine learning models to assess overheating and envelope retrofit strategies.
 
 The main prediction target is degree-hours above 26°C during school-occupied hours.
