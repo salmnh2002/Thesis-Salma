@@ -1,2 +1,3 @@
 # Thesis-Salma
-Machine learning framework for improving thermal comfort and reducing overheating in free-floating school buildings
+
+A Machine Learning Framework for Identifying Climate-Adaptive Envelope Retrofit Strategies to Improve Thermal Comfort and Reduce Overheating in Free-Floating School Buildings
